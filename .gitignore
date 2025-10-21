@@ -1,0 +1,4 @@
+*.zip
+awscliv2/
+*.csv  # Exclude large data files
+*.secret
