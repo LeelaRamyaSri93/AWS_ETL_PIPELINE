@@ -32,17 +32,17 @@ This project applies ETL to a dataset of drug information, using AWS services to
 ---
 
 ## 📁 Project Structure
-aws-etl-pipeline/ 
-├── README.md 
-├── architecture-diagram.png 
-├── lambda/ 
-│   └── transform_function.py 
-├── docs/ 
-│   └── pipeline_steps.md 
-│   └── troubleshooting.md 
-├── assets/ 
-│   └── screenshots/
 
+aws-etl-pipeline/
+├── README.md
+├── architecture-diagram.png
+├── lambda/
+│   └── transform_function.py
+├── docs/
+│   ├── pipeline_steps.md
+│   └── troubleshooting.md
+├── assets/
+│   └── screenshots/
 
 ---
 
