@@ -72,7 +72,7 @@ Detailed guides available in the `docs/` folder:
 
 ## 🖼️ Visual Reference
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.jpeg)
 
 Additional screenshots available in `assets/screenshots/`.
 
