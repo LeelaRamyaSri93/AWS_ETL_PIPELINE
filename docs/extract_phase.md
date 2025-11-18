@@ -111,7 +111,7 @@ The extract phase initiates the ETL pipeline by ingesting raw data into the clou
     {
       "Effect": "Allow",
       "Principal": {
-        "AWS": "arn:aws:iam::023952094707:user/etl-user"
+        "AWS": "arn:aws:iam::************:user/etl-user"
       },
       "Action": "s3:*",
       "Resource": "arn:aws:s3:::aws-etl-pipeline/*"
